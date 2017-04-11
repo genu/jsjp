@@ -49,44 +49,45 @@
             },
             {
                 "value": 300,
-                "question": "Question 3 in category 1 for 300 points",
+                "question": "Where is the BEST place a Javascript file?",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "The &lt;body&gt; section",
                         "correct": true
                     },
                     {
-                        "text": "B",
+                        "text": "The &lt;head&gt; section",
                         "correct": false
                     },
                     {
-                        "text": "C",
+                        "text": "Both in the &lt;head&gt; and the &lt;body&gt; section would work",
                         "correct": false
                     },
                     {
-                        "text": "D",
+                        "text": "Nowhere, because everything will be lazy-loaded.",
                         "correct": false
                     }
                 ]
             },
             {
                 "value": 400,
-                "question": "What is the main benefit of closures?",
+                "question": "What does this code output?",
+                "questionCode": "(function(x){\n  console.log(x); \n})(42)",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "null",
+                        "correct": false
+                    },
+                    {
+                        "text": "undefined",
+                        "correct": false
+                    },
+                    {
+                        "text": "42",
                         "correct": true
                     },
                     {
-                        "text": "B",
-                        "correct": false
-                    },
-                    {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
+                        "text": "This code never actually executes",
                         "correct": false
                     }
                 ]
@@ -98,45 +99,45 @@
         "questions": [
             {
                 "value": 100,
-                "question": "Question 1 in category 2 for 100 points",
+                "question": "What does HTML stand for?",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "Home Tool Markup Language",
+                        "correct": false
+                    },
+                    {
+                        "text": "Hyperlinks and Text Markup Language",
+                        "correct": false
+                    },
+                    {
+                        "text": "Hyper Text Markup Language",
                         "correct": true
                     },
                     {
-                        "text": "B",
-                        "correct": false
-                    },
-                    {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
+                        "text": "Hyper Text Markup Layer",
                         "correct": false
                     }
                 ]
             },
             {
                 "value": 200,
-                "question": "Question 2 in category 2 for 200 points",
+                "question": "What is the correct way of opening google.com in a new window?",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "&lt;a href=\"www.google.com\" new&gt;Google&lt;/a&gt;",
+                        "correct": false
+                    },
+                    {
+                        "text": "&lt;a href=\"www.google.com\" target=\"window\">Google&lt;/a&gt;",
+                        "correct": false
+                    },
+                    {
+                        "text": "&lt;a href=\"www.google.com\" new>Google&lt;/a&gt;",
+                        "correct": false
+                    },
+                    {
+                        "text": "&lt;a href=\"www.google.com\" target=\"_blank\"&gt;Google&lt;/a&gt;",
                         "correct": true
-                    },
-                    {
-                        "text": "B",
-                        "correct": false
-                    },
-                    {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
-                        "correct": false
                     }
                 ]
             },
@@ -213,23 +214,23 @@
             },
             {
                 "value": 200,
-                "question": "Question 2 in category 3 for 200 points",
+                "question": "Which color format is NOT supported in CSS?",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "hsl(0,100%,50%",
+                        "correct": false
+                    },
+                    {
+                        "text": "rgb(255, 0, 0)",
+                        "correct": false
+                    },
+                    {
+                        "text": "#ff0000",
+                        "correct": false
+                    },
+                    {
+                        "text": "111111110000000000000000",
                         "correct": true
-                    },
-                    {
-                        "text": "B",
-                        "correct": false
-                    },
-                    {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
-                        "correct": false
                     }
                 ]
             },
