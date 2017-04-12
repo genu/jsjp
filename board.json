@@ -99,22 +99,22 @@
         "questions": [
             {
                 "value": 100,
-                "question": "What does HTML stand for?",
+                "question": "Which of the following is used to create Web Page?",
                 "answers": [
                     {
-                        "text": "Home Tool Markup Language",
-                        "correct": false
-                    },
-                    {
-                        "text": "Hyperlinks and Text Markup Language",
-                        "correct": false
-                    },
-                    {
-                        "text": "Hyper Text Markup Language",
+                        "text": "HTML",
                         "correct": true
                     },
                     {
-                        "text": "Hyper Text Markup Layer",
+                        "text": "JVM",
+                        "correct": false
+                    },
+                    {
+                        "text": "DTD",
+                        "correct": false
+                    },
+                    {
+                        "text": "C",
                         "correct": false
                     }
                 ]
@@ -143,44 +143,44 @@
             },
             {
                 "value": 300,
-                "question": "Question 3 in category 2 for 300 points",
+                "question": "HTML stands for",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "Hyper Text Makeup Language",
+                        "correct": false
+                    },
+                    {
+                        "text": "Hyper Text Markup Language",
                         "correct": true
                     },
                     {
-                        "text": "B",
+                        "text": "None of these",
                         "correct": false
                     },
                     {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
+                        "text": "Hyper Tech Markup Language",
                         "correct": false
                     }
                 ]
             },
             {
                 "value": 400,
-                "question": "Question 4 in category 2 for 400 points",
+                "question": "Who was the primary author of HTML?",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "Brendan Eich",
+                        "correct": false
+                    },
+                    {
+                        "text": "Tim Berners-Lee",
                         "correct": true
                     },
                     {
-                        "text": "B",
+                        "text": "Google Inc",
                         "correct": false
                     },
                     {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
+                        "text": "Eugen Istoc",
                         "correct": false
                     }
                 ]
@@ -192,22 +192,22 @@
         "questions": [
             {
                 "value": 100,
-                "question": "Question 1 in category 3 for 100 points",
+                "question": "What does CSS stand for?",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "Cascading Styling Sheet",
+                        "correct": false
+                    },
+                    {
+                        "text": "Cascading Secure Sheet",
+                        "correct": false
+                    },
+                    {
+                        "text": "Cascading Style Sheet",
                         "correct": true
                     },
                     {
-                        "text": "B",
-                        "correct": false
-                    },
-                    {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
+                        "text": "Current Style Sheet",
                         "correct": false
                     }
                 ]
@@ -236,44 +236,44 @@
             },
             {
                 "value": 300,
-                "question": "Question 3 in category 3 for 300 points",
+                "question": "which CSS property will change the size of your text?",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "font-height",
+                        "correct": false
+                    },
+                    {
+                        "text": "size",
+                        "correct": false
+                    },
+                    {
+                        "text": "text-size",
+                        "correct": false
+                    },
+                    {
+                        "text": "font-size",
                         "correct": true
-                    },
-                    {
-                        "text": "B",
-                        "correct": false
-                    },
-                    {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
-                        "correct": false
                     }
                 ]
             },
             {
                 "value": 400,
-                "question": "Question 4 in category 3 for 400 points",
+                "question": "What is the universal selector?",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "*",
                         "correct": true
                     },
                     {
-                        "text": "B",
+                        "text": "all",
                         "correct": false
                     },
                     {
-                        "text": "C",
+                        "text": "universal",
                         "correct": false
                     },
                     {
-                        "text": "D",
+                        "text": "all-selectors",
                         "correct": false
                     }
                 ]
@@ -285,88 +285,88 @@
         "questions": [
             {
                 "value": 100,
-                "question": "Question 1 in category 4 for 100 points",
+                "question": "Which is not a js framework",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "AngularJS",
+                        "correct": false
+                    },
+                    {
+                        "text": "Aurelia",
+                        "correct": false
+                    },
+                    {
+                        "text": "Mojito",
+                        "correct": false
+                    },
+                    {
+                        "text": "jsframework",
                         "correct": true
-                    },
-                    {
-                        "text": "B",
-                        "correct": false
-                    },
-                    {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
-                        "correct": false
                     }
                 ]
             },
             {
                 "value": 200,
-                "question": "Question 2 in category 4 for 200 points",
+                "question": "Which one does unit testing",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "Jasmine",
                         "correct": true
                     },
                     {
-                        "text": "B",
+                        "text": "Cappuccino",
                         "correct": false
                     },
                     {
-                        "text": "C",
+                        "text": "Echo",
                         "correct": false
                     },
                     {
-                        "text": "D",
+                        "text": "Meteor",
                         "correct": false
                     }
                 ]
             },
             {
                 "value": 300,
-                "question": "Question 3 in category 4 for 300 points",
+                "question": "What is the current stable version of Angular",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "Angular 1.x",
                         "correct": true
                     },
                     {
-                        "text": "B",
+                        "text": "Angular 2.x",
                         "correct": false
                     },
                     {
-                        "text": "C",
+                        "text": "Angular 4.x",
                         "correct": false
                     },
                     {
-                        "text": "D",
+                        "text": "Angular 5.x",
                         "correct": false
                     }
                 ]
             },
             {
                 "value": 400,
-                "question": "Question 4 in category 4 for 400 points",
+                "question": "Which company created Angular",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "Facebook",
+                        "correct": false
+                    },
+                    {
+                        "text": "Google",
                         "correct": true
                     },
                     {
-                        "text": "B",
+                        "text": "AT&T",
                         "correct": false
                     },
                     {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
+                        "text": "Yahoo",
                         "correct": false
                     }
                 ]
@@ -378,89 +378,89 @@
         "questions": [
             {
                 "value": 100,
-                "question": "Question 1 in category 4 for 100 points",
+                "question": "HTML uses ",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "User defined tags",
+                        "correct": false
+                    },
+                    {
+                        "text": "Pre-specified tags",
+                        "correct": false
+                    },
+                    {
+                        "text": "Fixed tags defined by the language",
                         "correct": true
                     },
                     {
-                        "text": "B",
-                        "correct": false
-                    },
-                    {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
+                        "text": "Tags only for linking",
                         "correct": false
                     }
                 ]
             },
             {
                 "value": 200,
-                "question": "Question 2 in category 4 for 200 points",
+                "question": "Apart from <b> tag, what other tag makes text bold",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "fat",
+                        "correct": false
+                    },
+                    {
+                        "text": "strong",
                         "correct": true
                     },
                     {
-                        "text": "B",
+                        "text": "black",
                         "correct": false
                     },
                     {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
+                        "text": "emp",
                         "correct": false
                     }
                 ]
             },
             {
                 "value": 300,
-                "question": "Question 3 in category 4 for 300 points",
+                "question": "What tag is used to display a picture in a HTML page? ",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "picture",
+                        "correct": false
+                    },
+                    {
+                        "text": "image",
+                        "correct": false
+                    },
+                    {
+                        "text": "img",
                         "correct": true
                     },
                     {
-                        "text": "B",
-                        "correct": false
-                    },
-                    {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
+                        "text": "src",
                         "correct": false
                     }
                 ]
             },
             {
                 "value": 400,
-                "question": "Question 4 in category 4 for 400 points",
+                "question": "Which HTML tag produces the biggest heading",
                 "answers": [
                     {
-                        "text": "A",
+                        "text": "h7",
+                        "correct": false
+                    },
+                    {
+                        "text": "h100",
+                        "correct": false
+                    },
+                    {
+                        "text": "h2.5",
+                        "correct": false
+                    },
+                    {
+                        "text": "h1",
                         "correct": true
-                    },
-                    {
-                        "text": "B",
-                        "correct": false
-                    },
-                    {
-                        "text": "C",
-                        "correct": false
-                    },
-                    {
-                        "text": "D",
-                        "correct": false
                     }
                 ]
             }
